@@ -7,3 +7,4 @@ This section contains basic JavaScript interview questions designed for beginner
 3. [Explain DOM Tree ?](Explain-DOM-Tree.md)
 4. [What are arrow functions and how are they different from regular functions ?](What-are-arrow-functions.md)
 5. [What is the diffrence between null and undefined ?](Difference-between-null-and-undefined.md)
+6. [What is the Difference Between == and === in JavaScript ?](Difference-between-equality-and-strict-equality.md)
