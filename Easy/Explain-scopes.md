@@ -1,4 +1,4 @@
-## 2. Explain Scopes (Global, Local, Functional, Block) in JavaScript
+### Explain Scopes (Global, Local, Functional, Block) in JavaScript
 
 ## What is Scope in JavaScript?
 

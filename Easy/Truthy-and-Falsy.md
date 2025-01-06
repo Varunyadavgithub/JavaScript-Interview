@@ -1,4 +1,4 @@
-## 1. What are Truthy and Falsy values in JavaScript?
+### What are Truthy and Falsy values in JavaScript?
 
 In JavaScript, every value has an inherent Boolean value, referred to as **truthy** or **falsy**. This determines whether the value is treated as `true` or `false` when evaluated in a Boolean context, such as an `if` statement, loops, or ternary operators.
 

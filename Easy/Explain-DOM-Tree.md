@@ -1,4 +1,4 @@
-## 3. Explain DOM Tree
+### Explain DOM Tree
 
 ## What is the DOM (Document Object Model)?
 

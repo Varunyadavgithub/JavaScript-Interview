@@ -1,4 +1,4 @@
-## 7. How Loops Work in JavaScript ?  
+### How Loops Work in JavaScript ?  
 
 Loops in JavaScript are used to repeatedly execute a block of code until a specified condition is met. They are essential for handling repetitive tasks efficiently. JavaScript provides several types of loops, each suitable for different scenarios.  
 

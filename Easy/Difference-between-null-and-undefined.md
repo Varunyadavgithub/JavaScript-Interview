@@ -1,4 +1,4 @@
-## 5. What is the Difference Between `null` and `undefined` in JavaScript?
+### What is the Difference Between `null` and `undefined` in JavaScript?
 
 In JavaScript, both `null` and `undefined` represent the absence of a value, but they are used in different contexts and have distinct meanings. Let’s explore the differences between these two:
 

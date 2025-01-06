@@ -1,4 +1,4 @@
-## 6. What is the Difference Between `==` and `===` in JavaScript?  
+### What is the Difference Between `==` and `===` in JavaScript?  
 
 In JavaScript, `==` and `===` are comparison operators used to check for equality. While both check if two values are equal, their behavior differs significantly due to **type coercion**. Understanding the difference between these two operators is crucial for writing reliable and bug-free code.  
 

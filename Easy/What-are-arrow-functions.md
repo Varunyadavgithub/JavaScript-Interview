@@ -1,4 +1,4 @@
-## 4. What are Arrow Functions and How Are They Different from Regular Functions?
+### What are Arrow Functions and How Are They Different from Regular Functions?
 
 Arrow functions were introduced in ES6 (ECMAScript 2015) as a concise syntax for writing functions in JavaScript. They offer a shorter way to define functions compared to the traditional `function` keyword.
 
