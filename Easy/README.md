@@ -1,4 +1,4 @@
-# Easy JavaScript Interview Questions
+### Easy JavaScript Interview Questions
 
 This section contains basic JavaScript interview questions designed for beginners. Click on each question to see its detailed answer.
 
