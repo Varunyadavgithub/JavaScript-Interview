@@ -13,7 +13,7 @@ This section contains basic JavaScript interview questions designed for beginner
 9.  [What are template literals in JavaScript, and how are they used ?](Template-literals-in-JS.md) ✅
 10. [What is the purpose of the `break` and `continue` statements in JavaScript loops ?](Break-and-continue-in-loops.md) ✅
 11. [What is the difference between `undefined` and `not defined` in JavaScript ?](Undefined-vs-not-defined.md) ✅
-12. [What are JavaScript events, and how do you handle them ?](JavaScript-events.md)
+12. [What are JavaScript events, and how do you handle them ?](JavaScript-events.md) ✅
 13. [What is the difference between `var`, `let`, and `const` in JavaScript ?](Difference-between-var-let-const.md)
 14. [What are Truthy and Falsy values in JavaScript ?](Truthy-and-Falsy.md) ✅
 15. [Explain scopes (Global, Local, Functional, Block).](Explain-scopes.md) ✅
