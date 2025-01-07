@@ -8,7 +8,7 @@ This section contains basic JavaScript interview questions designed for beginner
 4.  [What is the purpose of the `typeof` operator in JavaScript ?](Typeof-operator-in-JS.md) ✅
 5.  [What are JavaScript objects and how do you create them ?](JavaScript-objects.md) ✅
 6.  [What is a prototype in JavaScript, and how does it work?](JavaScript-prototype.md) ✅
-7.  [What are arrays in JavaScript ?](Arrays-in-JS.md)
+7.  [What are arrays in JavaScript ?](Arrays-in-JS.md) ✅
 8.  [What is the purpose of the `alert`, `prompt`, and `confirm` methods in JavaScript ?](Alert-prompt-confirm.md)
 9.  [What are template literals in JavaScript, and how are they used ?](Template-literals-in-JS.md)
 10. [What is the purpose of the `break` and `continue` statements in JavaScript loops ?](Break-and-continue-in-loops.md)
