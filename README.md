@@ -31,6 +31,18 @@ This repository aims to assist **freshers** in their JavaScript interview prepar
 
 ---
 
+## 📂 Question Categories
+
+Navigate through the questions based on difficulty level:  
+
+- [Easy Questions](./Easy/README.md)  
+- [Medium Questions](./Medium/README.md)  
+- [Hard Questions](./Hard/README.md)  
+
+Each category contains detailed answers to commonly asked JavaScript interview questions.  
+
+---
+
 ## 🛠️ How to Use
 
 1. **Clone the Repository:**
@@ -91,5 +103,3 @@ This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) 
 ---
 
 Happy learning and best of luck with your interviews! 🚀  
-
----
