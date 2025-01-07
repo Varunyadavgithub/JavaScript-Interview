@@ -2,7 +2,7 @@
 
 This section contains intermediate-level JavaScript interview questions. Click on each question to see its detailed answer.
 
-1.  [Explain slice() and splice() methods of an array.](Explain-slice-and-splice.md)
+1.  [Explain slice() and splice() methods of an array.](Explain-slice-and-splice.md) ✅
 2.  [What is event bubbling in JavaScript?](Event-bubbling-in-JS.md)
 3.  [What is the value of the "this" keyword in arrow functions?](Value-of-this-in-arrow-functions.md)
 4.  [What are closures in JavaScript?](Closures-in-JS.md)
