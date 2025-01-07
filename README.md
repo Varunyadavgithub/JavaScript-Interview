@@ -9,7 +9,7 @@ Welcome to the **JavaScript Interview Preparation Guide**! This repository is a 
 - [Introduction](#-introduction)
 - [Features](#-features)
 - [Question Categories](#-question-categories)
-- [How to Use](#-how-to-use)
+- [How to Use](#%EF%B8%8F-how-to-use)
 - [Contribute](#-contribute)
 - [Acknowledgements](#-acknowledgements)
 - [License](#-license)
@@ -96,9 +96,17 @@ A heartfelt thank you to all contributors who make this project possible!
 
 ### Contributors
 
-| [![Varun Yadav](https://avatars.githubusercontent.com/Varunyadavgithub?s=100)](https://github.com/Varunyadavgithub) | [![Contributor 2](https://avatars.githubusercontent.com/username2?s=100)](https://github.com/username2) | [![Contributor 3](https://avatars.githubusercontent.com/username3?s=100)](https://github.com/username3) |
-| :-----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
-|                                 [Varun Yadav](https://github.com/Varunyadavgithub)                                  |                                [username2](https://github.com/username2)                                |                                [username3](https://github.com/username3)                                |
+<div align="center">
+  <a href="https://github.com/Varunyadavgithub">
+    <img src="https://avatars.githubusercontent.com/Varunyadavgithub?s=100" alt="Varun Yadav" title="Varun Yadav" style="border-radius: 50%; margin: 10px;">
+  </a>
+  <a href="https://github.com/username2">
+    <img src="https://avatars.githubusercontent.com/username2?s=100" alt="Contributor 2" title="Contributor 2" style="border-radius: 50%; margin: 10px;">
+  </a>
+  <a href="https://github.com/username3">
+    <img src="https://avatars.githubusercontent.com/username3?s=100" alt="Contributor 3" title="Contributor 3" style="border-radius: 50%; margin: 10px;">
+  </a>
+</div>
 
 ---
 
