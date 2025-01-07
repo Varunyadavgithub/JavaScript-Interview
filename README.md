@@ -24,10 +24,22 @@ This repository aims to assist **freshers** in their JavaScript interview prepar
 
 ## ✨ Features
 
-- **Real Interview Questions:** Questions faced by freshers during actual interviews.  
-- **Detailed Explanations:** Easy-to-understand answers designed for beginners.  
-- **Community-Driven:** Contributions from freshers and professionals alike.  
-- **Continuous Updates:** Regularly updated with fresh questions and insights.  
+- **Real Interview Questions:** Questions faced by freshers during actual interviews.
+- **Detailed Explanations:** Easy-to-understand answers designed for beginners.
+- **Community-Driven:** Contributions from freshers and professionals alike.
+- **Continuous Updates:** Regularly updated with fresh questions and insights.
+
+---
+
+## 📂 Question Categories
+
+Navigate through the questions based on difficulty level:
+
+- [Easy Questions](./Easy/README.md)
+- [Medium Questions](./Medium/README.md)
+- [Hard Questions](./Hard/README.md)
+
+Each category contains detailed answers to commonly asked JavaScript interview questions.
 
 ---
 
@@ -37,8 +49,8 @@ This repository aims to assist **freshers** in their JavaScript interview prepar
    ```bash
    git clone https://github.com/Varunyadavgithub/JavaScript-Interview.git
    ```
-2. **Explore Categories:** Navigate through the categories to find beginner-friendly questions and topics.  
-3. **Learn and Contribute:** Use this guide to prepare, and share your own interview experiences to help others.  
+2. **Explore Categories:** Navigate through the categories to find beginner-friendly questions and topics.
+3. **Learn and Contribute:** Use this guide to prepare, and share your own interview experiences to help others.
 
 ---
 
@@ -47,7 +59,8 @@ This repository aims to assist **freshers** in their JavaScript interview prepar
 We encourage **freshers** and **professionals** to share interview questions, experiences, or insights. By contributing, you help create a valuable resource for the community.
 
 ### Contribution Steps:
-1. **Fork this repository.**  
+
+1. **Fork this repository.**
 2. **Clone your fork:**
    ```bash
    git clone https://github.com/Varunyadavgithub/JavaScript-Interview.git
@@ -65,7 +78,7 @@ We encourage **freshers** and **professionals** to share interview questions, ex
    ```bash
    git push origin add-your-question
    ```
-7. **Open a Pull Request** for review.  
+7. **Open a Pull Request** for review.
 
 For detailed guidelines, check the [CONTRIBUTING.md](./CONTRIBUTING.md) file.
 
@@ -90,6 +103,4 @@ This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) 
 
 ---
 
-Happy learning and best of luck with your interviews! 🚀  
-
----
+Happy learning and best of luck with your interviews! 🚀
