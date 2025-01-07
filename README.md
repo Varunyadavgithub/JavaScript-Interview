@@ -6,13 +6,13 @@ Welcome to the **JavaScript Interview Preparation Guide**! This repository is a 
 
 ## 📖 Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Question Categories](#question-categories)
-- [How to Use](#how-to-use)
-- [Contribute](#contribute)
-- [Acknowledgements](#acknowledgements)
-- [License](#license)
+- [Introduction](#-introduction)
+- [Features](#-features)
+- [Question Categories](#-question-categories)
+- [How to Use](#-how-to-use)
+- [Contribute](#-contribute)
+- [Acknowledgements](#-acknowledgements)
+- [License](#-license)
 
 ---
 
@@ -92,8 +92,13 @@ If you find this repository helpful, please give it a ⭐. It helps other freshe
 
 ## 🙏 Acknowledgements
 
-A heartfelt thank you to all contributors who make this project possible!  
-[📂 View Contributors](./CONTRIBUTORS.md)
+A heartfelt thank you to all contributors who make this project possible!
+
+### Contributors
+
+| [![Varun Yadav](https://avatars.githubusercontent.com/Varunyadavgithub?s=100)](https://github.com/Varunyadavgithub) | [![Contributor 2](https://avatars.githubusercontent.com/username2?s=100)](https://github.com/username2) | [![Contributor 3](https://avatars.githubusercontent.com/username3?s=100)](https://github.com/username3) |
+| :-----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
+|                                 [Varun Yadav](https://github.com/Varunyadavgithub)                                  |                                [username2](https://github.com/username2)                                |                                [username3](https://github.com/username3)                                |
 
 ---
 
