@@ -20,5 +20,5 @@ This section contains intermediate-level JavaScript interview questions. Click o
 16. [How does destructuring assignment work in JavaScript?](Destructuring-assignment.md) ✅
 17. [What are rest and spread operators in JavaScript?](Rest-and-spread-operators.md) ✅
 18. [What is the difference between call, apply, and bind methods?](Call-apply-bind-methods.md) ✅
-19. [How do you handle errors in JavaScript using try-catch?](Try-catch-error-handling.md)
+19. [How do you handle errors in JavaScript using try-catch?](Try-catch-error-handling.md) ✅
 20. [What is the purpose of the `new` keyword in JavaScript?](Purpose-of-new-keyword.md)
