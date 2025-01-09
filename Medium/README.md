@@ -14,7 +14,7 @@ This section contains intermediate-level JavaScript interview questions. Click o
 10. [What is hoisting in JavaScript?](Hoisting-in-JS.md) ✅
 11. [What are JavaScript promises, and how do they work?](Promises-in-JS.md) ✅
 12. [What is the difference between function declaration and function expression?](Function-declaration-vs-expression.md) ✅
-13. [What are JavaScript modules, and why are they used?](JavaScript-modules.md)
+13. [What are JavaScript modules, and why are they used?](JavaScript-modules.md) ✅
 14. [What is the difference between shallow copy and deep copy?](Shallow-vs-deep-copy.md)
 15. [What are the different ways to iterate over an array in JavaScript?](Array-iteration-methods.md)
 16. [How does destructuring assignment work in JavaScript?](Destructuring-assignment.md)
