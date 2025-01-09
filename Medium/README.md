@@ -17,7 +17,7 @@ This section contains intermediate-level JavaScript interview questions. Click o
 13. [What are JavaScript modules, and why are they used?](JavaScript-modules.md) ✅
 14. [What is the difference between shallow copy and deep copy?](Shallow-vs-deep-copy.md) ✅
 15. [What are the different ways to iterate over an array in JavaScript?](Array-iteration-methods.md) ✅
-16. [How does destructuring assignment work in JavaScript?](Destructuring-assignment.md)
+16. [How does destructuring assignment work in JavaScript?](Destructuring-assignment.md) ✅
 17. [What are rest and spread operators in JavaScript?](Rest-and-spread-operators.md)
 18. [What is the difference between call, apply, and bind methods?](Call-apply-bind-methods.md)
 19. [How do you handle errors in JavaScript using try-catch?](Try-catch-error-handling.md)
