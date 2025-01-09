@@ -9,7 +9,7 @@ This section contains intermediate-level JavaScript interview questions. Click o
 5.  [What is recursion in JavaScript?](Recursion-in-JS.md) ✅
 6.  [What are higher-order functions in JavaScript?](Higher-order-functions-in-JS.md) ✅
 7.  [What is a callback function in JavaScript?](Callback-functions-in-JS.md) ✅
-8.  [What is the difference between synchronous and asynchronous programming?](Difference-between-sync-and-async.md)
+8.  [What is the difference between synchronous and asynchronous programming?](Difference-between-sync-and-async.md) ✅
 9.  [What is the difference between querySelector and querySelectorAll?](Difference-between-querySelector-and-querySelectorAll.md)
 10. [What is hoisting in JavaScript?](Hoisting-in-JS.md)
 11. [What are JavaScript promises, and how do they work?](Promises-in-JS.md)
