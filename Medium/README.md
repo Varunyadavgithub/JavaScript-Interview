@@ -12,7 +12,7 @@ This section contains intermediate-level JavaScript interview questions. Click o
 8.  [What is the difference between synchronous and asynchronous programming?](Difference-between-sync-and-async.md) ✅
 9.  [What is the difference between querySelector and querySelectorAll?](Difference-between-querySelector-and-querySelectorAll.md) ✅
 10. [What is hoisting in JavaScript?](Hoisting-in-JS.md) ✅
-11. [What are JavaScript promises, and how do they work?](Promises-in-JS.md)
+11. [What are JavaScript promises, and how do they work?](Promises-in-JS.md) ✅
 12. [What is the difference between function declaration and function expression?](Function-declaration-vs-expression.md)
 13. [What are JavaScript modules, and why are they used?](JavaScript-modules.md)
 14. [What is the difference between shallow copy and deep copy?](Shallow-vs-deep-copy.md)
