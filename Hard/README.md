@@ -2,7 +2,7 @@
 
 This section contains advanced JavaScript interview questions. Click on each question to see its detailed answer.
 
-1.  [What is the difference between map(), filter(), and reduce() methods?](Difference-between-map-filter-reduce.md)
+1.  [What is the difference between map(), filter(), and reduce() methods?](Difference-between-map-filter-reduce.md) ✅
 2.  [What is the purpose of the async and await keywords?](Purpose-of-async-and-await.md)
 3.  [Explain the working of the Event Loop.](Working-of-event-loop.md)
 4.  [How can you remove duplicates from an array in JavaScript?](Remove-duplicates-from-array.md)
