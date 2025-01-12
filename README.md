@@ -105,6 +105,13 @@ A heartfelt thank you to all contributors who make this project possible!
       <br>
       <strong><a href="https://github.com/Varunyadavgithub">Varun Yadav</a></strong>
     </td>
+     <td align="center">
+      <a href="https://github.com/Hunterdii">
+        <img src="https://avatars.githubusercontent.com/Hunterdii?s=100" alt="Het Patel" title="Het Patel" style="border-radius: 50%;">
+      </a>
+      <br>
+      <strong><a href="https://github.com/Hunterdii">Het Patel</a></strong>
+    </td>
   </tr>
 </table>
 
