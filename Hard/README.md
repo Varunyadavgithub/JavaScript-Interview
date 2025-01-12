@@ -9,7 +9,7 @@ This section contains advanced JavaScript interview questions. Click on each que
 5.  [What is memoization in JavaScript?](Memoization-in-JS.md)
 6.  [What is the difference between innerHTML and innerText?](Difference-between-innerHTML-and-innerText.md) ✅
 7.  [Explain how localStorage, sessionStorage, and cookies differ.](Difference-between-localStorage-sessionStorage-cookies.md)
-8.  [What is destructuring in JavaScript, and how does it work?](Destructuring-in-JS.md)
+8.  [What is destructuring in JavaScript, and how does it work?](Destructuring-in-JS.md) ✅
 9.  [How can we handle callback hell situations?](Handling-callback-hell.md)
 10. [Explain Default and Named Exports.](Default-and-named-exports.md)
 11. [What is currying in JavaScript, and how is it used?](Currying-in-JS.md)
