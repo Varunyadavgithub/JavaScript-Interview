@@ -11,7 +11,7 @@ This section contains advanced JavaScript interview questions. Click on each que
 7.  [Explain how localStorage, sessionStorage, and cookies differ.](Difference-between-localStorage-sessionStorage-cookies.md) ✅
 8.  [What is destructuring in JavaScript, and how does it work?](Destructuring-in-JS.md) ✅
 9.  [How can we handle callback hell situations?](Handling-callback-hell.md) ✅
-10. [Explain Default and Named Exports.](Default-and-named-exports.md)
+10. [Explain Default and Named Exports.](Default-and-named-exports.md) ✅
 11. [What is currying in JavaScript, and how is it used?](Currying-in-JS.md)
 12. [What is the purpose of the `Proxy` object in JavaScript?](Proxy-object-in-JS.md)
 13. [What is a WeakMap, and how is it different from a Map?](WeakMap-vs-Map.md)
