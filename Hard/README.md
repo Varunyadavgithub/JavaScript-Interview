@@ -21,4 +21,4 @@ This section contains advanced JavaScript interview questions. Click on each que
 17. [How does garbage collection work in JavaScript?](Garbage-collection-in-JS.md)
 18. [What are Service Workers, and how are they used in JavaScript?](Service-workers-in-JS.md)
 19. [Explain the concept of Web Workers in JavaScript.](Web-workers-in-JS.md)
-20. [What is the difference between mutable and immutable objects in JavaScript?](Mutable-vs-immutable-objects.md)
+20. [What is the difference between mutable and immutable objects in JavaScript?](Mutable-vs-immutable-objects.md) ✅
