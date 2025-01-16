@@ -17,7 +17,7 @@ This section contains advanced JavaScript interview questions. Click on each que
 13. [What is a WeakMap, and how is it different from a Map?](WeakMap-vs-Map.md)
 14. [What are generators in JavaScript, and how do they work?](Generators-in-JS.md)
 15. [Explain how to debounce and throttle functions in JavaScript.](Debounce-vs-throttle.md)
-16. [What is the purpose of the Symbol data type in JavaScript?](Symbol-data-type.md)
+16. [What is the purpose of the Symbol data type in JavaScript?](Symbol-data-type.md) ✅
 17. [How does garbage collection work in JavaScript?](Garbage-collection-in-JS.md)
 18. [What are Service Workers, and how are they used in JavaScript?](Service-workers-in-JS.md)
 19. [Explain the concept of Web Workers in JavaScript.](Web-workers-in-JS.md)
