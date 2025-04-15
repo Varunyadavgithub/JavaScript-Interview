@@ -23,3 +23,4 @@ This section contains advanced JavaScript interview questions. Click on each que
 19. [Explain the concept of Web Workers in JavaScript.](Web-workers-in-JS.md)
 20. [What is the difference between mutable and immutable objects in JavaScript?](Mutable-vs-immutable-objects.md) ✅
 21. [Explain the difference between Map, Set, WeakMap, and WeakSet in JavaScript.](JavaScript_Collections.md) ✅
+22. [How does CORS (Cross-Origin Resource Sharing) work in JavaScript?](CORS_in_JavaScript.md) ✅
