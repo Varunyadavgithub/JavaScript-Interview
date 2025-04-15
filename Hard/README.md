@@ -12,11 +12,11 @@ This section contains advanced JavaScript interview questions. Click on each que
 8.  [What is destructuring in JavaScript, and how does it work?](Destructuring-in-JS.md) ✅
 9.  [How can we handle callback hell situations?](Handling-callback-hell.md) ✅
 10. [Explain Default and Named Exports.](Default-and-named-exports.md) ✅
-11. [What is currying in JavaScript, and how is it used?](Currying-in-JS.md)
+11. [What is currying in JavaScript, and how is it used?](Currying-in-JS.md) ✅
 12. [What is the purpose of the `Proxy` object in JavaScript?](Proxy-object-in-JS.md)
 13. [What is a WeakMap, and how is it different from a Map?](WeakMap-vs-Map.md)
 14. [What are generators in JavaScript, and how do they work?](Generators-in-JS.md)
-15. [Explain how to debounce and throttle functions in JavaScript.](Debounce-vs-throttle.md)
+15. [Explain how to debounce and throttle functions in JavaScript.](Debounce-vs-throttle.md) ✅
 16. [What is the purpose of the Symbol data type in JavaScript?](Symbol-data-type.md) ✅
 17. [How does garbage collection work in JavaScript?](Garbage-collection-in-JS.md)
 18. [What are Service Workers, and how are they used in JavaScript?](Service-workers-in-JS.md)
